@@ -1,0 +1,2 @@
+google https://google.com
+test https://reallylongurlthatnoonewantstotype.com
